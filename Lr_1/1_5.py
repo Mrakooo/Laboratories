@@ -7,7 +7,7 @@
 def rad(x):
     x=x*3.14/180
     print(x)
-    input()
+
 
 a=float(input("Enter an angle value: "))
 rad(a)
