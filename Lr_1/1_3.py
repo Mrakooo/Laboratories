@@ -6,7 +6,7 @@
 def p(a):
     P = 4 * a
     print(P)
-    input()
+
 
 a=float(input("Enter a num: "))
 p(a)
