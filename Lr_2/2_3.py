@@ -11,4 +11,3 @@ def positive(num):
 
 n=int(input("Enter a number: "))
 positive(n)
-input()
