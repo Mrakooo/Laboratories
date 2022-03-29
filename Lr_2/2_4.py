@@ -22,4 +22,3 @@ def week(num):
 
 n=int(input("Enter a number from 1 to 7: "))
 week(n)
-input()
