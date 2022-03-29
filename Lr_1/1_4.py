@@ -17,6 +17,6 @@ def reverse_a_b():
     B = C
     print("A=" + str(A))
     print("B=" + str(B))
-    input()
+
 
 reverse_a_b()
