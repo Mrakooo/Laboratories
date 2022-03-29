@@ -14,4 +14,3 @@ def ASCII(n):
 
 n=int(input("Enter a number: "))
 ASCII(n)
-input()
