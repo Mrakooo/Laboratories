@@ -9,7 +9,7 @@ def reverse(num):
     c = num % 10 * 100
     num = a + b + c
     print(num)
-    input()
+
 
 num=int(input("Enter a three-digit number:"))
 reverse(num)
