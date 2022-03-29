@@ -7,7 +7,7 @@
 def value(x):
     y = 3 * x ** 6 + 6 * x ** 2 + 7
     print(y)
-    input()
+
 
 x = float(input("Enter a num: "))
 value(x)
