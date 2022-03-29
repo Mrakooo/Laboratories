@@ -20,5 +20,3 @@ b=float(input("Enter second value: "))
 c=float(input("Enter third value: "))
 
 three(a,b,c)
-
-input()
